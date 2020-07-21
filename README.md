@@ -1,2 +1,1 @@
-Windows: electron-builder -w --publish always
-Mac: electron-builder -m --publish always
+Publish release repository for Cloudgate
